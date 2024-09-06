@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 
 ## PS
 <div align=center>
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> [Codeforces](https://codeforces.com/profile/pysunn)
-  [solved.ac](https://solved.ac/profile/pysunn)
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> 
 </div>
+
+  [Codeforces](https://codeforces.com/profile/pysunn)
+  
+  [solved.ac](https://solved.ac/profile/pysunn)
