@@ -24,12 +24,14 @@ Here are some ideas to get you started:
 
 
 ## STUDYING
+<div align=center>
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
 
 
 ## PS
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> [Codeforces](https://codeforces.com/profile/pysunn)
 <div align=center>
-  
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> [Codeforces](https://codeforces.com/profile/pysunn)
+  [solved.ac](https://solved.ac/profile/pysunn)
 </div>
