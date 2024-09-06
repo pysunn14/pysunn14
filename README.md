@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Hi&nbspThere!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+
 ## STACK
 <div align=center>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+
+  obsidian
 </div>
 
 
