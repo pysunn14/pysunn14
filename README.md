@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Hi&nbspThere!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=7C3AED&height=200&text=Hi&nbsp!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+<div align=center>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+</div>
 
 ## STACK
 <div align=center>
