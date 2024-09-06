@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Hi There!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Hi&nbspThere!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   
