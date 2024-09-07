@@ -32,3 +32,6 @@
   [AtCoder](https://atcoder.jp/users/pysunn)
 
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pysunn14)](https://github.com/anuraghazra/github-readme-stats)
