@@ -36,6 +36,10 @@
 
   [AtCoder](https://atcoder.jp/users/pysunn)
 
+  <div class="atcoder-widget" data-user=pysunn>
+  <script async src="https://cdn.jsdelivr.net/npm/atcoder-widget@0.0.3/dist/widget.js"></script>
+  </div>
+
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
 
 
