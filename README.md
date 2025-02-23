@@ -11,14 +11,18 @@
 <div align=center>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" >
 </div>
 
 
 ## Studying...
 <div align=center>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
 </div>
-
 
 ## Problem Solving
 <div align=center>
@@ -36,11 +40,6 @@
 
   [AtCoder](https://atcoder.jp/users/pysunn)
 
-  <div class="atcoder-widget" data-user="pysunn">
-  <script async src="https://cdn.jsdelivr.net/npm/atcoder-widget@0.0.3/dist/widget.js"></script>
-  </div>
-
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
-
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pysunn14)](https://github.com/anuraghazra/github-readme-stats)
