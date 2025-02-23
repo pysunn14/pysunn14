@@ -32,6 +32,7 @@
   [solved.ac](https://solved.ac/profile/pysunn)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pysunn)](https://solved.ac/pysunn)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pysunn&theme=dark)
 
   [AtCoder](https://atcoder.jp/users/pysunn)
 
