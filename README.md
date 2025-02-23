@@ -29,6 +29,8 @@
   
   [solved.ac](https://solved.ac/profile/pysunn)
 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pysunn})](https://solved.ac/{pysunn})
+
   [AtCoder](https://atcoder.jp/users/pysunn)
 
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
