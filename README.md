@@ -26,10 +26,12 @@
 </div>
 
   [Codeforces](https://codeforces.com/profile/pysunn)
+
+  [![CodeForces Profile](https://cf.leed.at?id=cysunn)](https://codeforces.com/profile/cysunn)
   
   [solved.ac](https://solved.ac/profile/pysunn)
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pysunn})](https://solved.ac/{pysunn})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pysunn)](https://solved.ac/pysunn)
 
   [AtCoder](https://atcoder.jp/users/pysunn)
 
