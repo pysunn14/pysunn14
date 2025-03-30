@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> 
 </div>
 
-  [Codeforces](https://codeforces.com/profile/cysunn)
-
   [![CodeForces Profile](https://cf.leed.at?id=cysunn)](https://codeforces.com/profile/cysunn)
   
   [solved.ac](https://solved.ac/profile/pysunn)
@@ -44,7 +42,6 @@
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pysunn)](https://solved.ac/pysunn)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pysunn&theme=dark)
 
-  [AtCoder](https://atcoder.jp/users/pysunn)
   [![Atcoder Profile](https://atcoder-badge.kro.kr?id=pysunn)](https://atcoder.jp/users/pysunn)
 
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
