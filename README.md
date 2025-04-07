@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=7C3AED&height=200&text=Hello!&animation=fadeIn&fontSize=80&fontAlignY=35&fontColor=FFFFFF)
 
+## [Blog](https://pysunn14.github.io/Study-Web/)
+
 <div align=center>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
@@ -40,9 +42,8 @@
   [solved.ac](https://solved.ac/profile/pysunn)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pysunn)](https://solved.ac/pysunn)
+  
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pysunn&theme=dark)
-
-  [![Atcoder Profile](https://atcoder-badge.kro.kr?id=pysunn)](https://atcoder.jp/users/pysunn)
 
   [A.N.S.I](https://ansi.ajou.club/post/activities.html)
 
