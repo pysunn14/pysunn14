@@ -1,0 +1,39 @@
+<!-- Hallmark · component: badge · genre: modern-minimal · theme: Cobalt · state: static -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="32" viewBox="0 0 124 32" role="img" aria-labelledby="title">
+  <title id="title">LiteRT-LM</title>
+  <style>
+    :root {
+      --color-paper: oklch(18% 0.018 258);
+      --color-surface: oklch(22% 0.022 258);
+      --color-rule: oklch(43% 0.03 258);
+      --color-ink: oklch(94% 0.008 250);
+      --color-muted: oklch(72% 0.018 255);
+      --color-accent: oklch(68% 0.18 256);
+      --color-icon: oklch(94% 0.008 250);
+      --font-mono: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, monospace;
+    }
+    .surface { fill: var(--color-surface); stroke: var(--color-rule); }
+    .label { fill: var(--color-ink); font-family: var(--font-mono); font-size: 12px; font-style: normal; font-weight: 600; }
+    .status { fill: var(--color-paper); }
+    .status-core { fill: var(--color-accent); }
+  </style>
+  <rect class="surface" x="0.5" y="0.5" width="123" height="31" rx="6" />
+  <g transform="translate(11.5 7) scale(0.75 0.75)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 1080 1080" preserveAspectRatio="xMidYMid meet" fill="var(--color-icon)" color="var(--color-icon)" aria-hidden="true"><defs>
+    <style>
+      .cls-1 {
+        fill: #00c99e;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path class="cls-1" d="M836.8,358.7c-1-1.1-20.2-20.2-21.2-21.2L197,962.3l580.3-328.2c105.3-59.6,143.1-187.9,59.5-275.3h0Z"/>
+        <path class="cls-1" d="M698.9,228.6c-.8-.8-15-15.1-15.8-15.8l-460.7,465.4,432.2-244.5c78.4-44.4,106.6-139.9,44.3-205.1h0Z"/>
+        <path class="cls-1" d="M598.8,128.5c-.5-.5-10-10-10.5-10.5l-306,309.1,287-162.4c52.1-29.5,70.8-92.9,29.5-136.2h0Z"/>
+      </g>
+    </g>
+  </g></svg></g>
+  <text class="label" x="38" y="20.5">LiteRT-LM</text>
+</svg>
