@@ -1,37 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=7C3AED&height=200&text=Hello!&animation=fadeIn&fontSize=80&fontAlignY=35&fontColor=FFFFFF)
+<p>
+  <img src="./assets/header.svg" width="100%" alt="Minseok Kim — on-device AI, local LLMs, and agentic development" />
+</p>
 
-<div align=center>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</div>
+### On-device AI
 
-## Machine Learning
-<div align=center>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+<p>
+  <a href="https://github.com/ml-explore/mlx"><img src="./assets/badges/mlx.svg" width="82" height="32" alt="MLX" /></a>
+  <a href="https://github.com/google-ai-edge/LiteRT-LM"><img src="./assets/badges/litert-lm.svg" width="124" height="32" alt="LiteRT-LM" /></a>
+  <a href="https://github.com/QwenLM/Qwen3"><img src="./assets/badges/qwen.svg" width="92" height="32" alt="Qwen" /></a>
+  <a href="https://github.com/unslothai/unsloth"><img src="./assets/badges/unsloth.svg" width="116" height="32" alt="Unsloth" /></a>
+  <a href="https://www.python.org/"><img src="./assets/badges/python.svg" width="104" height="32" alt="Python" /></a>
+  <a href="https://pytorch.org/"><img src="./assets/badges/pytorch.svg" width="112" height="32" alt="PyTorch" /></a>
+</p>
 
-## Studying...
-<div align=center>
-  <img src=" />
-</div>
-    
-## Problem Solving
-<div align=center>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> 
-</div>
+### Serving
 
-  [![CodeForces Profile](https://cf.leed.at?id=cysunn)](https://codeforces.com/profile/cysunn)
-  
-  [solved.ac](https://solved.ac/profile/pysunn)
+<p>
+  <a href="https://github.com/ddalcu/mlx-serve"><img src="./assets/badges/mlx-serve.svg" width="128" height="32" alt="MLX Serve" /></a>
+</p>
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pysunn)](https://solved.ac/pysunn)
-  
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pysunn&theme=dark)
+### Backend &amp; data
 
-  [A.N.S.I](https://ansi.ajou.club/post/activities.html)
+<p>
+  <a href="https://spring.io/projects/spring-boot"><img src="./assets/badges/spring-boot.svg" width="142" height="32" alt="Spring Boot" /></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/badges/postgresql.svg" width="126" height="32" alt="PostgreSQL" /></a>
+</p>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pysunn14)](https://github.com/anuraghazra/github-readme-stats)
+### Cloud &amp; ops
+
+<p>
+  <a href="https://aws.amazon.com/"><img src="./assets/badges/aws.svg" width="82" height="32" alt="AWS" /></a>
+  <a href="https://cloud.google.com/"><img src="./assets/badges/gcp.svg" width="82" height="32" alt="Google Cloud" /></a>
+  <a href="https://www.docker.com/"><img src="./assets/badges/docker.svg" width="100" height="32" alt="Docker" /></a>
+</p>
+
+### Agent toolchain
+
+<p>
+  <a href="https://github.com/openai/codex"><img src="./assets/badges/codex.svg" width="96" height="32" alt="Codex" /></a>
+  <a href="https://github.com/stablyai/orca"><img src="./assets/badges/orca.svg" width="88" height="32" alt="Orca" /></a>
+</p>
+
+### Problem solving
+
+<p>
+  <a href="https://en.cppreference.com/"><img src="./assets/badges/cpp.svg" width="82" height="32" alt="C++" /></a>
+</p>
+
+[Codeforces / `cysunn`](https://codeforces.com/profile/cysunn)
+
+[solved.ac / `pysunn`](https://solved.ac/profile/pysunn) · [A.N.S.I](https://ansi.ajou.club/post/activities.html)
+
+<p>
+  <a href="https://solved.ac/profile/pysunn"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=pysunn" width="110" height="20" alt="Solved.ac profile for pysunn" /></a>
+</p>

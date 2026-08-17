@@ -1,0 +1,39 @@
+<!-- Hallmark · genre: modern-minimal · macrostructure: Index-First · theme: Cobalt · enrichment: none · nav: GitHub-owned · footer: GitHub-owned -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248" role="img" aria-labelledby="title description">
+  <title id="title">Minseok Kim</title>
+  <desc id="description">On-device AI, local LLMs, and agentic development with MLX, LiteRT-LM, Qwen, Unsloth, and MLX Serve.</desc>
+  <style>
+    :root {
+      --color-paper: oklch(18% 0.018 258);
+      --color-surface: oklch(22% 0.022 258);
+      --color-rule: oklch(43% 0.03 258);
+      --color-ink: oklch(94% 0.008 250);
+      --color-muted: oklch(72% 0.018 255);
+      --color-accent: oklch(68% 0.18 256);
+      --font-mono: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, monospace;
+    }
+
+    .surface { fill: var(--color-paper); }
+    .rule { stroke: var(--color-rule); stroke-width: 1; }
+    .accent { fill: var(--color-accent); }
+    .meta,
+    .name,
+    .tagline,
+    .stack { font-family: var(--font-mono); font-style: normal; }
+    .meta { fill: var(--color-muted); font-size: 13px; font-weight: 600; letter-spacing: 0.12em; }
+    .name { fill: var(--color-ink); font-size: 46px; font-weight: 700; letter-spacing: -0.035em; }
+    .tagline { fill: var(--color-ink); font-size: 17px; font-weight: 600; letter-spacing: 0.035em; }
+    .stack { fill: var(--color-muted); font-size: 15px; font-weight: 500; }
+  </style>
+
+  <rect class="surface" width="1000" height="248" rx="10" />
+  <line class="rule" x1="52" y1="52" x2="948" y2="52" />
+  <rect class="accent" x="52" y="27" width="10" height="10" rx="2" />
+  <text class="meta" x="76" y="37">PYSUNN14 / PROFILE</text>
+
+  <text class="name" x="52" y="119">MINSEOK KIM</text>
+  <text class="tagline" x="52" y="157">ON-DEVICE AI · LOCAL LLM · AGENTIC DEVELOPMENT</text>
+
+  <line class="rule" x1="52" y1="188" x2="948" y2="188" />
+  <text class="stack" x="52" y="219">MLX / LiteRT-LM / Qwen / Unsloth / MLX Serve</text>
+</svg>
