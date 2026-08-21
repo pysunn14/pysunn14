@@ -47,10 +47,9 @@
   <a href="https://en.cppreference.com/"><img src="./assets/badges/cpp.svg" width="82" height="32" alt="C++" /></a>
 </p>
 
-[Codeforces / `cysunn`](https://codeforces.com/profile/cysunn)
-
 [solved.ac / `pysunn`](https://solved.ac/profile/pysunn) · [A.N.S.I](https://ansi.ajou.club/post/activities.html)
 
 <p>
+  <a href="https://codeforces.com/profile/cysunn"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=cysunn" width="125" height="20" alt="Codeforces rating for cysunn" /></a>
   <a href="https://solved.ac/profile/pysunn"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=pysunn" width="110" height="20" alt="Solved.ac profile for pysunn" /></a>
 </p>
