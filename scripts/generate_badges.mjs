@@ -60,8 +60,11 @@ const badges = [
   },
   { slug: 'python', label: 'Python', width: 104, source: raw('devicons/devicon', revisions.devicon, 'icons/python/python-original.svg') },
   { slug: 'pytorch', label: 'PyTorch', width: 112, source: raw('devicons/devicon', revisions.devicon, 'icons/pytorch/pytorch-original.svg') },
+  { slug: 'comfyui', label: 'ComfyUI', width: 112, source: raw('lobehub/lobe-icons', revisions.lobe, 'packages/static-svg/icons/comfyui-color.svg') },
+  { slug: 'anima', label: 'Anima', width: 96, source: raw('lobehub/lobe-icons', revisions.lobe, 'packages/static-svg/icons/huggingface-color.svg') },
   { slug: 'mlx-serve', label: 'MLX Serve', width: 128, source: mlxLogo, viewBox: '290.57 0 136.33 139.72', decorator: true },
   { slug: 'spring-boot', label: 'Spring Boot', width: 142, source: raw('devicons/devicon', revisions.devicon, 'icons/spring/spring-original.svg') },
+  { slug: 'fastapi', label: 'FastAPI', width: 108, source: raw('devicons/devicon', revisions.devicon, 'icons/fastapi/fastapi-original.svg') },
   { slug: 'postgresql', label: 'PostgreSQL', width: 126, source: raw('devicons/devicon', revisions.devicon, 'icons/postgresql/postgresql-original.svg') },
   {
     slug: 'aws',

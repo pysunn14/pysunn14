@@ -13,6 +13,13 @@
   <a href="https://pytorch.org/"><img src="./assets/badges/pytorch.svg" width="112" height="32" alt="PyTorch" /></a>
 </p>
 
+### Image generation
+
+<p>
+  <a href="https://github.com/Comfy-Org/ComfyUI"><img src="./assets/badges/comfyui.svg" width="112" height="32" alt="ComfyUI" /></a>
+  <a href="https://huggingface.co/circlestone-labs/Anima"><img src="./assets/badges/anima.svg" width="96" height="32" alt="Anima" /></a>
+</p>
+
 ### Serving
 
 <p>
@@ -23,6 +30,7 @@
 
 <p>
   <a href="https://spring.io/projects/spring-boot"><img src="./assets/badges/spring-boot.svg" width="142" height="32" alt="Spring Boot" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="./assets/badges/fastapi.svg" width="108" height="32" alt="FastAPI" /></a>
   <a href="https://www.postgresql.org/"><img src="./assets/badges/postgresql.svg" width="126" height="32" alt="PostgreSQL" /></a>
 </p>
 

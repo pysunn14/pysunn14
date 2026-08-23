@@ -7,7 +7,7 @@ The badge frames and profile header are original assets for this repository. Pro
 | MLX, MLX Serve mark | [ml-explore/mlx](https://github.com/ml-explore/mlx/tree/main/docs/logo) | MIT |
 | LiteRT-LM | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | Apache-2.0 |
 | Orca | [stablyai/orca](https://github.com/stablyai/orca/blob/main/resources/logo.svg) | MIT |
-| Codex, Qwen, Unsloth | [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) | MIT |
-| Python, PyTorch, Spring, PostgreSQL, AWS, Google Cloud, Docker, C++ | [devicons/devicon](https://github.com/devicons/devicon) | MIT |
+| Codex, Qwen, Unsloth, ComfyUI, Hugging Face mark for Anima | [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) | MIT |
+| Python, PyTorch, Spring, FastAPI, PostgreSQL, AWS, Google Cloud, Docker, C++ | [devicons/devicon](https://github.com/devicons/devicon) | MIT |
 
 The generator pins source revisions in [`scripts/generate_badges.mjs`](../scripts/generate_badges.mjs) so committed badge files remain reproducible.
